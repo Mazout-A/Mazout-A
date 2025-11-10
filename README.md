@@ -1,16 +1,16 @@
-# 👋 Salut, je suis Billal Boudlal - Développeur Full-stack & Concepteur UX/UI 🚀
+# 👋 Salut, je suis Billal Boudlal - Développeur Full-stack & Concepteur UX/UI 
 
 > **Mon Manifeste :** J'excelle à transformer des maquettes UX/UI en applications **Full-Stack** (Web & Mobile) performantes et maintenables, en me concentrant sur le **Clean Code** et l'accessibilité.
 
 ---
 
-### 🔎 En ce Moment, Je...
+### En ce Moment, Je...
 
-| 💼 Statut | 🌱 Apprentissage Actif | 🚀 Maîtrise des Concepts |
+| Statut | Apprentissage Actif | Maîtrise des Concepts |
 | :--- | :--- | :--- |
 | **Étudiant @MyDigitalSchool, à la recherche d'une Alternance** | **Principes fondamentaux de React et composants modernes** | **Mise en pratique des méthodologies Agiles et du Clean Code** |
 
-### 🛠️ Ma Boîte à Outils Full-Stack
+### Ma Boîte à Outils Full-Stack
 
 | Domaine | Outils Favoris & Compétences |
 | :--- | :--- |
@@ -20,13 +20,13 @@
 
 ---
 
-### 📅 Mes Contributions Récentes
+### Mes Contributions Récentes
 
 [![Mazout-A's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mazout-A&theme=react-dark)](https://github.com/ashishpatel26/github-readme-activity-graph)
 
 ---
 
-### 🔗 Connectons-nous !
+### Connectons-nous !
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/billal-boudlal-a6442933a/)
 <p>Mon portfolio est actuellement en cours de développement. Restez à l'écoute !</p>
