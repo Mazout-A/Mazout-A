@@ -8,7 +8,7 @@
 
 | 💼 Statut | 🌱 Apprentissage Actif | 🚀 Maîtrise des Concepts |
 | :--- | :--- | :--- |
-| **Étudiant @ MyDigitalSchool, à la recherche d'une Alternance** | **React avancé et gestion d'état (Redux/Context API)** | **Mise en pratique des méthodologies Agiles et du Clean Code** |
+| **Étudiant @MyDigitalSchool, à la recherche d'une Alternance** | **Principes fondamentaux de React et composants modernes** | **Mise en pratique des méthodologies Agiles et du Clean Code** |
 
 ### 🛠️ Ma Boîte à Outils Full-Stack
 
@@ -17,8 +17,6 @@
 | **Front-End & UI/UX** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/) |
 | **Back-End & BDD** | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) |
 | **Versionning** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/) |
-
----
 
 ---
 
